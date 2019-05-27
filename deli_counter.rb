@@ -6,5 +6,8 @@ def line(katz_deli)
     current_line << "#{i}, #{person}"
   end
   puts current_line
-  
+ end
+end
+
+def take_a_number 
   
